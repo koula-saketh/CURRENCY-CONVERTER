@@ -1,5 +1,5 @@
 """ 
-This program converts currency of one country with another if we give thier country codes as input. 
+This program converts currency of one country to another if we give their country codes as input. 
 It uses the api at fixer.io and then calculates the value of the currency in terms of the other as of today.
 """
 
